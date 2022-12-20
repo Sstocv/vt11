@@ -7,7 +7,7 @@ from datetime import datetime
 from telebot import types
 
 
-bot = telebot.TeleBot("2064152487:AAEU7x4xEGNi7Cuv1odxF3k3bnXkKWmlxk4")
+bot = telebot.TeleBot("")
     
 
 # COMMANDS
